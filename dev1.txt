@@ -1,2 +1,2 @@
 this is dev file
-this is dev file line 2 conflict
+this sss conflict
